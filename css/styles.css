@@ -89,6 +89,12 @@ table {
 	padding: 20px 0;
 }
 
+#header.default {
+	position: fixed;
+	top: 0;
+	background: rgba(34,34,34,.5);
+}
+
 .logo {
 	float: left;
 }
